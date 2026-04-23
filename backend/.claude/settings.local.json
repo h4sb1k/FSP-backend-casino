@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "Bash(sudo docker *)",
+      "Bash(mvn clean *)",
+      "Bash(mvn -version)",
+      "Read(//usr/lib/jvm/**)",
+      "Bash(JAVA_HOME=/usr/lib/jvm/java-21-openjdk-amd64 mvn clean test -q)"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "claude-flow"
+  ]
+}

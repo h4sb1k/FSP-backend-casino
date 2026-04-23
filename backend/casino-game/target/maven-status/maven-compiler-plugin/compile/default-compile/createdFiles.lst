@@ -1,0 +1,6 @@
+ru/fsp/casino/game/service/WinnerService.class
+ru/fsp/casino/game/dto/WinnerResult.class
+ru/fsp/casino/game/service/BotService.class
+ru/fsp/casino/game/dto/RoundSummary.class
+ru/fsp/casino/game/service/BalanceService$InsufficientBalanceException.class
+ru/fsp/casino/game/service/BalanceService.class

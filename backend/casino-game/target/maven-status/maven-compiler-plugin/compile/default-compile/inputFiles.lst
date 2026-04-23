@@ -1,0 +1,5 @@
+/home/invigar/Apps/backend/casino-game/src/main/java/ru/fsp/casino/game/dto/RoundSummary.java
+/home/invigar/Apps/backend/casino-game/src/main/java/ru/fsp/casino/game/dto/WinnerResult.java
+/home/invigar/Apps/backend/casino-game/src/main/java/ru/fsp/casino/game/service/BalanceService.java
+/home/invigar/Apps/backend/casino-game/src/main/java/ru/fsp/casino/game/service/BotService.java
+/home/invigar/Apps/backend/casino-game/src/main/java/ru/fsp/casino/game/service/WinnerService.java
